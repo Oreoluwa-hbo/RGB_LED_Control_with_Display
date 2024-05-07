@@ -1,8 +1,3 @@
-/*
-Oreoluwa Adegbesan
-NET 3001 Final Project
-*/
-
 #include <Arduino.h>
 #include <avr_debugger.h>
 #include <LCD.h>
